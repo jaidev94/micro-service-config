@@ -2,7 +2,7 @@ server:
   port: 8088
 spring:
   application:
-    name: Default-Config
+    name: Config-Dev
 eureka:
   instance:
     prefer-ip-address: true
